@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_pratice/java_getting_started_Q1/java_getting_started_Q1.iml" filepath="$PROJECT_DIR$/java_pratice/java_getting_started_Q1/java_getting_started_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pratice/java_getting_started_Q2/java_getting_started_Q2.iml" filepath="$PROJECT_DIR$/java_pratice/java_getting_started_Q2/java_getting_started_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learen_java_se.iml" filepath="$PROJECT_DIR$/.idea/learen_java_se.iml" />
+    </modules>
+  </component>
+</project>
