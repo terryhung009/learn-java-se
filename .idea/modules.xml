@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q1/java_getting_started_Q1.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q1/java_getting_started_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q10/java_getting_started_Q10.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q10/java_getting_started_Q10.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q2/java_getting_started_Q2.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q2/java_getting_started_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q3/java_getting_started_Q3.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q3/java_getting_started_Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q4/java_getting_started_Q4.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q4/java_getting_started_Q4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q5/java_getting_started_Q5.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q5/java_getting_started_Q5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q6/java_getting_started_Q6.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q6/java_getting_started_Q6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q7/java_getting_started_Q7.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q7/java_getting_started_Q7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q8/java_getting_started_Q8.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q8/java_getting_started_Q8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/java_getting_started_Q9/java_getting_started_Q9.iml" filepath="$PROJECT_DIR$/java_practice/java_getting_started_Q9/java_getting_started_Q9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learen_java_se.iml" filepath="$PROJECT_DIR$/.idea/learen_java_se.iml" />
     </modules>
   </component>
