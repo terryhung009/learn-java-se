@@ -34,9 +34,9 @@ Java HelloWorld
 
 ```java
 public class Hello{
-public static void main(String[] args){
-System.out.println("Hello World");
-}
+    public static void main(String[] args){
+        System.out.println("Hello World");
+    }
 }
 ```
    
@@ -50,6 +50,50 @@ System.out.println("Hello World");
 2. 盡量使用英文
 3. 文件名與class名必需一樣，並且首字母大寫
 4. 符號使用了中文的
+
+Java程序運行機制
+- 編譯型
+- 解釋型
+
+java是哪一種? 混和型，都有
+
+![img_14.png](img_14.png)
+
+
+# Java 基礎語法
+
+### 註釋
+註釋並不會被執行，是給我們人看的
+
+書寫註釋是一個非常好的習慣
+平時寫code一定要注意規範
+
+### 數據類型
+
+### 類型轉換
+
+### 變量、常數
+
+### 運算符
+
+### 包機制，javadoc
+
+# 標示符
+
+關鍵字
+
+![img_21.png](img_21.png)
+
+![img_22.png](img_22.png)
+
+# 數據類型
+
+![img_23.png](img_23.png)
+
+![img_24.png](img_24.png)
+
+
+
 
 
 
