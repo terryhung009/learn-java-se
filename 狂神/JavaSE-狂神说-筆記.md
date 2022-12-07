@@ -137,11 +137,51 @@ java是哪一種? 混和型，都有
 
 ![img_31.png](img_31.png)
 
-TODO 自己敲
+TODO 自己敲code
 ![img_32.png](img_32.png)
 
 ## 順序結構
 ![img_33.png](img_33.png)
+
+## 選擇結構
+![img_34.png](img_34.png)
+
+![img_35.png](img_35.png)
+
+![img_36.png](img_36.png)
+
+![img_37.png](img_37.png)
+
+![img_38.png](img_38.png)
+
+![img_39.png](img_39.png)
+
+注意break
+![img_40.png](img_40.png)
+
+![img_41.png](img_41.png)
+反編譯
+![img_42.png](img_42.png)
+
+## 循環結構
+![img_43.png](img_43.png)
+
+![img_44.png](img_44.png)
+
+![img_45.png](img_45.png)
+
+![img_46.png](img_46.png)
+
+### do...while
+![img_47.png](img_47.png)
+
+### For循環
+
+![img_49.png](img_49.png)
+
+![img_48.png](img_48.png)
+
+![img_50.png](img_50.png)
 
 
 

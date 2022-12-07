@@ -1,4 +1,6 @@
-public class Main {
+package struct;
+
+public class ForDemo04 {
     /*
     輸出結果
 1 * 1 = 1
@@ -11,20 +13,17 @@ public class Main {
 8 * 1 = 8	8 * 2 = 16	8 * 3 = 24	8 * 4 = 32	8 * 5 = 40	8 * 6 = 48	8 * 7 = 56	8 * 8 = 64
 9 * 1 = 9	9 * 2 = 18	9 * 3 = 27	9 * 4 = 36	9 * 5 = 45	9 * 6 = 54	9 * 7 = 63	9 * 8 = 72	9 * 9 = 81
      */
-    //使用二維array，內部迴圈指針從1~9將全部元素遍歷
-    // ex: 第一輪 //1*1,1*2,1*3…1*9 , 外部迴圈指針控制遍歷的圈數，
-    // 所以程式共執行9次//(1~9)*9輪(1~9)共81次
+    public static void main(String[] args) {
+        //1.我們先打印第一列，這個大家應該都會
+        //2.我們把固定的1再用1個循環包起來
 
-
-    public static void ninetable(){
-        for(int i = 1;i <= 9;i++){
-            for(int j = 1; j <= i ; j++){
-                System.out.print( i +" * " +j +" = " + i * j + "\t");
+        for (int j = 1; j <= 9; j++) {
+            for (int i = 1; i <= j; i++) {
+                System.out.print(j+" * "+i+" = " +(j*i)+"\t");
             }
             System.out.println("");
         }
-    }
-    public static void main(String[] args) {
-        ninetable();
+
+
     }
 }

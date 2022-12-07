@@ -6,7 +6,7 @@ package base;
  */
 public class doc {
 
-    String name;
+    static String name;
 
     /**
      *
@@ -14,7 +14,7 @@ public class doc {
      * @throws Exception
      */
     public static void main(String[] args) throws Exception{
-        return name;
+
     }
 
     //我是通過命令行  javadoc 參數 Java文件
