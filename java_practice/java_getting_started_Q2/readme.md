@@ -1,9 +1,13 @@
 編寫一個名為“ninetable()”的函數，它打印出九九乘法表的內容。
 
+```java
 public static void main(String[] args) {
 ninetable();
 }
 
+
+```
+```text
 1 * 1 = 1
 1 * 2 = 2
 1 * 3 = 3
@@ -11,3 +15,6 @@ ninetable();
 1 * 5 = 5
 ...
 9 * 9 = 81
+
+```
+
