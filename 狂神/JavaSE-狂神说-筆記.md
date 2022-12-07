@@ -183,6 +183,48 @@ TODO 自己敲code
 
 ![img_50.png](img_50.png)
 
+### 增強for循環
+![img_51.png](img_51.png)
+
+### break continue
+![img_52.png](img_52.png)
+
+break在任何循環語句的主體部分，均可用break控制循環的流程。
+break用於強行退出循環，
+不執行循環中剩餘的語句，(break語句也在switch語句中使用)
+
+continue 語句用在循環語句體中，用於終止某次循環過程，及跳過循環體中尚未執行的語句，
+接著進行下一次是否執行循環的設定
+
+
+//打印101~150所有質數
+LabelDemo
+//質數 : 只在大於1的自然數中，除了1與本身以外不再有其他因數的自然數
+
+//打印三角形
+//從直的分割三角形
+![img_53.png](img_53.png)
+
+
+//從橫的分割三角形
+
+# Java 方法
+
+# Java 數組
+
+# 面向對象編成 OOP
+
+![img_54.png](img_54.png)
+
+![img_55.png](img_55.png)
+
+![img_56.png](img_56.png)
+
+![img_57.png](img_57.png)
+
+![img_58.png](img_58.png)
+
+
 
 
 
