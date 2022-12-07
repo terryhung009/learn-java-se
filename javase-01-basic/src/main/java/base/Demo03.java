@@ -1,3 +1,5 @@
+package base;
+
 public class Demo03 {
     public static void main(String[] args) {
         //整數拓展 :  進制  二進制0b    十進制    八進制0   十六進制0x

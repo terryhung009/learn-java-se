@@ -109,6 +109,39 @@ java是哪一種? 混和型，都有
 
 ![image](27.png)
 
+## 常量
+![img_25.png](img_25.png)
+
+## 運算符
+
+![img_26.png](img_26.png)
+
+![img_27.png](img_27.png)
+
+運算符優先級
+
+## 包機制
+
+![img_28.png](img_28.png)
+
+## java doc
+
+![img_29.png](img_29.png)
+
+如何使用
+![img_30.png](img_30.png)
+
+# Java 流程控制
+
+## Scanner對象
+
+![img_31.png](img_31.png)
+
+TODO 自己敲
+![img_32.png](img_32.png)
+
+## 順序結構
+![img_33.png](img_33.png)
 
 
 

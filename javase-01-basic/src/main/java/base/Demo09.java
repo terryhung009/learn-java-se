@@ -1,3 +1,4 @@
+package base;
 
 public class Demo09 {
 	//修飾符 不存在先後順序

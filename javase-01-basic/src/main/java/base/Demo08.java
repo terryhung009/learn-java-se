@@ -1,3 +1,5 @@
+package base;
+
 public class Demo08 {
     //類變量 static
     static double salary = 2500;
@@ -21,7 +23,7 @@ public class Demo08 {
         int i =10;
         System.out.println(i);
 
-        //變量類型  變量名字 = new Demo08();
+        //變量類型  變量名字 = new base.Demo08();
         Demo08 demo = new Demo08();
         System.out.println(demo.age);
         System.out.println(demo.name);

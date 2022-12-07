@@ -5,7 +5,7 @@
 ![](1.jpg)
 ## 1.1 變數與賦值
 ```java
-public class Main {
+public class operator.Demo01 {
     public static void main(String[] args) {
         int x =5;
         x=x+1;
@@ -17,7 +17,7 @@ public class Main {
 X += 1 == x=x+1 是一種語法糖
 
 ```java
-public class Main {
+public class operator.Demo01 {
     public static void main(String[] args) {
        int x = 5;
        int y = 6;
@@ -30,7 +30,7 @@ public class Main {
 ![](2.jpg)
 
 ```java
-public class Main {
+public class operator.Demo01 {
     public static void main(String[] args) {
         final double PI = 3.14; //variable declaration 宣告變數
         PI = 5; //報錯
