@@ -216,6 +216,10 @@ LabelDemo
 
 # Java 方法
 
+## Java方法 01 什麼是方法?
+
+
+
 # Java 數組
 
 # 面向對象編成 OOP

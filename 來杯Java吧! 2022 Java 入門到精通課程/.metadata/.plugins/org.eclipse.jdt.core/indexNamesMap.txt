@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+file:/D:/work/JAVA/來杯Java吧!%202022%20Java%20入門到精通課程/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
