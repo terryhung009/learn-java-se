@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice_java/java_Intermediate_Q1/java_Intermediate_Q1.iml" filepath="$PROJECT_DIR$/practice_java/java_Intermediate_Q1/java_Intermediate_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_java/java_Intermediate_Q2/java_Intermediate_Q2.iml" filepath="$PROJECT_DIR$/practice_java/java_Intermediate_Q2/java_Intermediate_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_java/java_getting_started_Q1/java_getting_started_Q1.iml" filepath="$PROJECT_DIR$/practice_java/java_getting_started_Q1/java_getting_started_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_java/java_getting_started_Q2/java_getting_started_Q2.iml" filepath="$PROJECT_DIR$/practice_java/java_getting_started_Q2/java_getting_started_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_java/java_getting_started_Q3/java_getting_started_Q3.iml" filepath="$PROJECT_DIR$/practice_java/java_getting_started_Q3/java_getting_started_Q3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learen_java_se.iml" filepath="$PROJECT_DIR$/.idea/learen_java_se.iml" />
     </modules>
   </component>
